@@ -15,7 +15,7 @@ background color is black <br/>
 original text color is yellow <br/>
 the color of the translated text is gray <br/>
 
-![example](https://github.com/ehanhalici/pdfviewer/blob/master/screen.png)
+![example](./screen.png)
 
 ### Required Libraries
 
